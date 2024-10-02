@@ -2,7 +2,7 @@
 ### I'm BadAccuracyID
 *CTO, Software Engineer, and Software Developer at [LuckyNetwork](https://github.com/Lucky-Development-Department)*
 
-*Junior Laboratory Assistant at BINUS University*
+*Teaching Assistant Development Officer at BINUS University*
 
 ![](https://github.com/BadAccuracyID/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/BadAccuracyID/github-stats/blob/master/generated/languages.svg)
